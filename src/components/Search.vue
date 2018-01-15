@@ -1,10 +1,12 @@
 <template>
-  <div>
-    {{msg}}
-  </div>
+    <div id="search">{{msg}}
+        <div class="search">
+           <div class="search_input"></div>
+        </div>
+    </div>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
 export default {
   name: 'Search',
   data () {
