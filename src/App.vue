@@ -1,16 +1,16 @@
 <template>
 <div id="app">
-    <action-sheet></action-sheet>
+    <Search></Search>
   </div>
 </template>
 
 <script>
-import ActionSheet from './components/ActionSheet'
+import Search from './components/Search'
 
 export default {
   name: 'App',
   components: {
-    ActionSheet
+    Search
   }
 }
 </script>
