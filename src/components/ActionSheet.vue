@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'Search',
+  name: 'ActionSheet',
   data () {
     return {
       msg: '你好 勇士'
