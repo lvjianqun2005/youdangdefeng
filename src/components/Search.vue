@@ -1,7 +1,9 @@
 <template>
     <div id="search">{{msg}}
         <div class="search">
-           <div class="search_input"></div>
+           <div class="search_input">
+             <div></div>
+           </div>
         </div>
     </div>
 </template>
