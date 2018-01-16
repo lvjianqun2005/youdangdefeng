@@ -90,5 +90,6 @@ export default {
 }
 .search-history{
     display:flex;
+    flex-wrap:wrap;
 }
 </style>
