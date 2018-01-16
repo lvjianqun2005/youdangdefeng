@@ -95,5 +95,5 @@ export default {
     padding: 0 10px ;
     max-height: 66px;
 }
-
+ .search-history .search-history-item
 </style>
