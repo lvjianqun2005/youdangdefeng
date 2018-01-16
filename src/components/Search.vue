@@ -89,6 +89,6 @@ export default {
     flex-direction:column;
 }
 .search-history{
-    
+    display:flex;
 }
 </style>
