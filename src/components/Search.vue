@@ -88,8 +88,12 @@ export default {
     display: flex;
     flex-direction:column;
 }
-.search-history{
+.search_hisotry{
     display:flex;
     flex-wrap:wrap;
+    background: #ffffff;
+    padding: 0 10px ;
+    max-height: 66px;
 }
+
 </style>
